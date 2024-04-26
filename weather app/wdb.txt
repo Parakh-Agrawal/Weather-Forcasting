@@ -1,0 +1,6 @@
+cloud_pct
+humidity
+min_temp
+max_temp
+wind_speed
+wind_degrees
